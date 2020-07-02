@@ -11,7 +11,7 @@ app.use(cors())
 
 //Iniciando DB
 mongoose.connect(
-    'mongodb+srv://omnistack:omnistack@semanaomnistack-ostz9.mongodb.net/Cadastros?retryWrites=true&w=majority', {
+    'mongodb+srv://formulario:flamengo15@cluster0-xsmns.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
