@@ -11,7 +11,7 @@ app.use(cors())
 
 //Iniciando DB
 mongoose.connect(
-    'mongodb+srv://formulario:flamengo15@cluster0-xsmns.mongodb.net/test?retryWrites=true&w=majority', {
+    'mongodb+srv://tindev:flamengo15@cluster0-xsmns.mongodb.net/DBTinDev?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
