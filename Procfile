@@ -1,1 +1,1 @@
-web: start cadastro.html
+web: node index.js
